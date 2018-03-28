@@ -1,0 +1,17 @@
+01	Jane.doe@wayne.edu	1
+02	John.appleseed@wayne.edu	2
+03	Anna.brown@umich.edu	1
+04	John.smith@ou.edu	2
+05	Harold.brown@ou.edu	1
+06	Tim.cook@ou.edu	3
+07	Laura.mane@berkley.edu	1
+08	Gill.more@berkley.edu	2
+08	John.john@wayne.edu	1
+06	Mary.lynn@oakland.edu	1
+08	Xian.don@oakland.edu	2
+04	Gill.more@wayne.edu	1
+03	Aaron.smith@wcc.edu	1
+03	China.hu@wcc.edu	2
+01	David.pittman@wcc.edu	3
+09	Brian.lyman@umich.edu	1
+10	Logan.morgan@wayne.edu	1 
