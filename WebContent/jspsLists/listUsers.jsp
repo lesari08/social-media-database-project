@@ -75,7 +75,7 @@ div {
    <% //attempt %>
    
 	<h3> User Table </h3>
-	<p> Lists all users</p>
+	<p> Lists all users </p>
 	<table border = "5px ridge #1C6EA4" width="70%" align="center">
 		<tr>
 			<th>First</th>
